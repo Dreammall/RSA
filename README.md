@@ -1,5 +1,4 @@
 # RSA
-演習で作成したもの
 
 ## 実行環境
 * Jupyter Notebook
